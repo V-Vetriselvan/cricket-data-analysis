@@ -29,13 +29,6 @@ The project demonstrates how analytics can be applied to sports data for better 
 - `report.pdf` → Summary report with charts and insights.
 - `screenshots/` → Folder containing visuals of graphs and dashboards.
 
-## 📸 Sample Visualizations
-*(Insert screenshots here, for example run rate trends, top players, team comparisons.)*
-
-## 📌 Dataset
-Due to GitHub file size limitations, only a **sample dataset** is included in this repository.  
-Full dataset can be accessed here: [Google Drive Link](https://drive.google.com) *(replace with your actual link)*  
-
 ## 📌 Project Purpose
 This project was created as part of my **portfolio and learning journey** in data analytics, showcasing skills in Python, SQL, Excel, and storytelling with data.
 
